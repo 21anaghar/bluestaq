@@ -1,0 +1,12 @@
+Assumptions:
+
+1. Floors are numbered from 1 to Maxfloor.
+2. The elevator starts at floor 1 and there is one elevator
+3. If multiple requests are in up and down directions, the elevator will process all requests in one direction before switching.
+4. While the elevator is processing requests, no additional requests are queued
+
+Features Not Implemented:
+1. Does not handle requests simultaneously
+2. No emergency stops
+3. While the elevator is processing requests, no additional requests are queued
+
